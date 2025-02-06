@@ -30,7 +30,7 @@ const BookDetail = ({ books }) => {
         </p>
         <Link
           to="/"
-          className="mt-6 bg-yellow-500 text-white py-3 px-8 rounded-full text-lg font-semibold hover:bg-yellow-600 transition duration-300 shadow-md"
+          className="mt-6 bg-yellow-500 text-white py-3 px-8 rounded-lg text-lg font-semibold hover:bg-yellow-600 transition duration-300 shadow-md"
         >
           Back to Home
         </Link>
